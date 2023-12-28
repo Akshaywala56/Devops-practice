@@ -1,0 +1,2 @@
+1)28-12-2023 : read about rainbow brackets and added in pycharm
+               used git for creating file,folder and push in remote repository
